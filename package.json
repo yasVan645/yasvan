@@ -1,0 +1,35 @@
+{
+  "name": "yasvan",
+  "version": "1.0.0",
+  "description": "A simple javascript library for yasvan.js, very simple to use :d",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasVan645/yasvan.git"
+  },
+  "keywords": [
+    "yasvan.js",
+    "vanny",
+    "yasvany",
+    "yasVan.js",
+    "yasVan",
+    "van",
+    "yas.js"
+  ],
+  "author": "yasVan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasVan645/yasvan/issues"
+  },
+  "homepage": "https://github.com/yasVan645/yasvan#readme"
+}
